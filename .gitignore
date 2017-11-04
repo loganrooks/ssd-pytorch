@@ -101,5 +101,5 @@ ENV/
 .mypy_cache/
 
 # media files
-.mp4
-.mp3
+*.mp4
+*.mp3
