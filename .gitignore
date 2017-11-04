@@ -103,3 +103,6 @@ ENV/
 # media files
 *.mp4
 *.mp3
+
+# PyTorch files
+*.pth
